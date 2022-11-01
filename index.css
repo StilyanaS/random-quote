@@ -24,8 +24,8 @@ blockquote {
   position: relative;
   margin: 2rem;
   padding: 2.6em 2.4em 0.7em 1.4em;
-  font: italic 1.2rem "Didact Gothic";
-  letter-spacing: 1px;
+  font: italic 1.6rem "Didact Gothic";
+  letter-spacing: 1.5px;
   color: #f7ecde;
   background: rgba(247, 236, 222, 0.2);
   backdrop-filter: blur(30.5px);
@@ -36,7 +36,7 @@ blockquote {
     -5px -5px 5px rgb(255 255 255 / 30%);
   text-indent: 1.6em;
   text-align: center;
-  line-height: 1.3rem;
+  line-height: 2rem;
 }
 blockquote::before {
   content: "";
@@ -76,7 +76,7 @@ cite {
   margin-top: 30px;
   text-indent: 0;
   text-align: center;
-  font: bold 0.9rem;
+  font: bold 1.9rem;
   text-transform: uppercase;
   color: #bad1c2;
 }
